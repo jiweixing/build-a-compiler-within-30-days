@@ -23,9 +23,24 @@
         <TD>Cambridge University Press
         <TD>
         <TD>https://www.amazon.com/Modern-Compiler-Implementation-Java-Techniques/dp/0521586542/ref=as_sl_pc_tf_til?tag=compilerbooks-20&linkCode=w00&linkId=&creativeASIN=0521586542
+  <TR>  <TD>Programming Language Pragmatics
+        <TD>Michael L. Scott
+        <TD>Morgan Kaufmann
+        <TD>Fourth Edition
+        <TD>https://www.amazon.com/Programming-Language-Pragmatics-Michael-Scott/dp/0124104096
 </TABLE>
 
-<H2>实验教材列表</H2>
+
+<H2>国外相关课程</H2>
+<TABLE>
+  <TR> <TH>学校         <TH>课程名称    <TH>授课教师   <TH>教材  <TH>链接
+  <TR> <TD>Modern Compiler Implementation in C <TD>C  <TD>     <TD>    <TD>http://www.cs.princeton.edu/~appel/modern/c/project.html
+  <TR> <TD>Modern Compiler Implementation in Java <TD>Java  <TD> <TD>  <TD>http://www.cs.princeton.edu/~appel/modern/java/
+  <TR> <TD>Modern Compiler Implementation in ML <TD>ML  <TD> <TD>  <TD>http://www.cs.princeton.edu/~appel/modern/ml/
+  <TR> <TD>BIT-MiniCC   <TD>Java      <TD>C         <TD>MIPS     <TD>https://github.com/jiweixing/bit-minic-compiler
+</TABLE>
+    
+<H2>MOOC课程</H2>
 
 
 <H2>教学型编译器列表</H2>
