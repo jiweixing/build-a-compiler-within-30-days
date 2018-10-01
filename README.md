@@ -31,6 +31,8 @@
 <H2>教学型编译器列表</H2>
 <TABLE>
   <TR> <TH>名称         <TH>实现语言    <TH>源语言   <TH>目标语言  <TH>链接
+  <TR> <TD>Modern Compiler Implementation in C <TD>C  <TD>     <TD>    <TD>http://www.cs.princeton.edu/~appel/modern/c/project.html
+  <TR> <TD>Modern Compiler Implementation in Java <TD>Java  <TD> <TD>  <TD>http://www.cs.princeton.edu/~appel/modern/java/
   <TR> <TD>BIT-MiniCC   <TD>Java      <TD>C         <TD>MIPS     <TD>https://github.com/jiweixing/bit-minic-compiler
 </TABLE>
     
