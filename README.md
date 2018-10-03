@@ -43,7 +43,15 @@
 </TABLE>
     
 <H2>MOOC课程</H2>
-
+<TABLE>
+  <TR> <TH>学校         <TH>课程名称    <TH>授课教师   <TH>平台  <TH>链接
+  <TR> 
+        <TD>国防科技大学 
+        <TD>编译原理
+        <TD>王挺教授等     
+        <TD>中国大学MOOC    
+        <TD>https://www.icourse163.org/course/NUDT-1003101005
+</TABLE>
 
 <H2>教学型编译器列表</H2>
 <TABLE>
