@@ -48,7 +48,7 @@
   <TR> 
         <TD>国防科技大学 
         <TD>编译原理
-        <TD>王挺教授等     
+        <TD>王挺等     
         <TD>中国大学MOOC    
         <TD>https://www.icourse163.org/course/NUDT-1003101005
 </TABLE>
