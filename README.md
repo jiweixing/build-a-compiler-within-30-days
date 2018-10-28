@@ -81,6 +81,7 @@
  <H2>RISC-V处理器相关资料</H2>
   <UL>
     <LI>指令集
+    <LI>汇编编程指导：https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md
     <LI>参考手册
     <LI>
   </UL>
