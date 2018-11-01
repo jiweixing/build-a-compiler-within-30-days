@@ -68,6 +68,7 @@
   <TR> <TH>名称         <TH>实现语言    <TH>指令集   <TH>是否支持性能模拟  <TH>链接
   <TR> <TD>MARS         <TD>Java       <TD>MIPS    <TD>否                <TD>http://courses.missouristate.edu/KenVollmar/MARS/
   <TR> <TD>SPIM         <TD>C/C++      <TD>MIPS    <TD>否                <TD>https://sourceforge.net/projects/spimsimulator/files/
+  <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/jiweixing/bit-rars
 </TABLE>
   
 <P>
