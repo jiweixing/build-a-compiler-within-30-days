@@ -28,6 +28,11 @@
         <TD>Morgan Kaufmann
         <TD>Fourth Edition
         <TD>https://www.amazon.com/Programming-Language-Pragmatics-Michael-Scott/dp/0124104096
+  <TR>  <TD> A Retargetable C Compiler: Design and Implementation
+        <TD>avid R. Hanson / Christopher W. Fraser 
+        <TD>Addison-Wesley Professional
+        <TD>
+        <TD>https://www.amazon.com/Retargetable-Compiler-Design-Implementation/dp/0805316701
 </TABLE>
 
 
