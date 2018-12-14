@@ -77,7 +77,17 @@
   <TR> <TD>SPIM         <TD>C/C++      <TD>MIPS    <TD>否                <TD>https://sourceforge.net/projects/spimsimulator/files/
   <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/jiweixing/bit-rars
 </TABLE>
-  
+
+<P>
+<TABLE>
+  <TR>  <TH>年份        <TH>题目                                                          <TD>链接
+  <TR>  <TD>2018        <TD>Fast and Flexible Instruction Selection with Constraints     <TD>http://www.acm.org/binaries/content/assets/src/2018/patrick-thier.pdf
+  <TR>  <TD>2008:LLVM   <TD>Near-Optimal Instruction Selection on DAGs                   <TD>https://llvm.org/pubs/2008-CGO-DagISel.pdf
+  <TR>  <TD>1998:burg   <TD>Burg --- Fast Optimal Instruction Selection and Tree Parsing <TD> 
+  <TR>  <TD>1995:lburg  <TD>A Retargetable C Compiler: Design and Implementation.        <TD>
+  <TR>  <TD>1993:iburg  <TD>Engineering a simple, efficient code generator generator     <TD>
+</TABLE>
+
 <P>
   <H2>MIPS处理器相关资料</H2>
   <UL>
