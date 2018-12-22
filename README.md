@@ -45,6 +45,19 @@
         <TD>Michael L. Scott     
         <TD>fourth edition of Programming Language Pragmatics    
         <TD>https://www.cs.rochester.edu/courses/254/fall2017/resources.shtml
+  <TR>
+        <TD>Stanford University
+        <TD>Compilers
+        <TD>Alex Aiken
+        <TD>Compilers: Principles, Techniques, and Tools
+        <TD>http://web.stanford.edu/class/cs143/
+  <TR>
+        <TD>
+        <TD>
+        <TD>
+        <TD>
+        <TD>
+          
 </TABLE>
     
 <H2>MOOC课程</H2>
