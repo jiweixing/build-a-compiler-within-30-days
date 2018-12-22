@@ -52,11 +52,11 @@
         <TD>Compilers: Principles, Techniques, and Tools
         <TD>http://web.stanford.edu/class/cs143/
   <TR>
-        <TD>
-        <TD>
-        <TD>
-        <TD>
-        <TD>
+        <TD>MIT
+        <TD>Computer Language Engineering
+        <TD>Martin Rinard  
+        <TD>Modern Compiler Implementation in Java (Tiger Book)
+        <TD>http://6.035.scripts.mit.edu/fa18/schedule.html
           
 </TABLE>
     
