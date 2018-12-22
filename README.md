@@ -57,6 +57,13 @@
         <TD>Martin Rinard  
         <TD>Modern Compiler Implementation in Java (Tiger Book)
         <TD>http://6.035.scripts.mit.edu/fa18/schedule.html
+  <TR>
+        <TD>University of Edinburgh
+        <TD>COMPILING TECHNIQUES 
+        <TD>Christophe Dubach
+        <TD>
+        <TD>https://www.inf.ed.ac.uk/teaching/courses/ct/18-19/
+          
           
 </TABLE>
     
