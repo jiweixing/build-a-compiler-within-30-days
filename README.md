@@ -133,8 +133,8 @@
  <H2>ARM处理器相关资料</H2>
   <UL>
     <LI>指令集
-    <LI>参考手册
-    <LI>
+    <LI>调用惯例(MIPS/MIPS%20Assembly%20Language%20Guide.pdf)
+    <LI>汇编程序设计
   </UL>
 
 <P>
