@@ -127,7 +127,7 @@
     <LI>指令集
     <LI>[汇编编程指导](https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md）
     <LI>参考手册
-    <LI>
+    <LI>[我的简介](/README.md)
   </UL>
 
  <H2>ARM处理器相关资料</H2>
