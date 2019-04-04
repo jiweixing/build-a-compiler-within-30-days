@@ -125,15 +125,15 @@
  <H2>RISC-V处理器相关资料</H2>
   <UL>
     <LI>指令集
-    <LI>[汇编编程指导](https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md）
+    <LI><a href="https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md" target="_blank">汇编编程指导</a>
     <LI>参考手册
-    <LI>[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+    <LI>
   </UL>
 
  <H2>ARM处理器相关资料</H2>
   <UL>
     <LI>指令集
-    <LI>[调用惯例](/MIPS/MIPS%20Assembly%20Language%20Guide.pdf)
+    <LI><a href="/MIPS/MIPS%20Assembly%20Language%20Guide.pdf" target="_blank">调用惯例</a>
     <LI>汇编程序设计
   </UL>
 
