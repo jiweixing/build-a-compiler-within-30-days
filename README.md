@@ -125,7 +125,7 @@
  <H2>RISC-V处理器相关资料</H2>
   <UL>
     <LI>指令集
-    <LI>汇编编程指导：https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md
+    <LI>[汇编编程指导](https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md）
     <LI>参考手册
     <LI>
   </UL>
@@ -133,7 +133,7 @@
  <H2>ARM处理器相关资料</H2>
   <UL>
     <LI>指令集
-    <LI>[调用惯例]:(/MIPS/MIPS%20Assembly%20Language%20Guide.pdf)
+    <LI>[调用惯例](/MIPS/MIPS%20Assembly%20Language%20Guide.pdf)
     <LI>汇编程序设计
   </UL>
 
