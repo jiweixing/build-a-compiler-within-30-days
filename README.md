@@ -127,7 +127,7 @@
     <LI>指令集
     <LI>[汇编编程指导](https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md）
     <LI>参考手册
-    <LI>[我的简介](/README.md)
+    <LI>[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
   </UL>
 
  <H2>ARM处理器相关资料</H2>
