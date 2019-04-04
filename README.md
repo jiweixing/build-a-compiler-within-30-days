@@ -117,9 +117,9 @@
 <P>
   <H2>MIPS处理器相关资料</H2>
   <UL>
-    <LI>指令集
-    <LI>参考手册
-    <LI>
+    <LI><a href="/MIPS/MIPS%20Assembly%20Language%20Guide.pdf" target="_blank">指令集手册</a>
+    <LI><a href="/MIPS/MIPS%20Calling%20Conventions%20Summary.pdf" target="_blank">调用惯例</a>
+    <LI>汇编程序设计
   </UL>
 
  <H2>RISC-V处理器相关资料</H2>
@@ -132,8 +132,8 @@
 
  <H2>ARM处理器相关资料</H2>
   <UL>
-    <LI>指令集
-    <LI><a href="/MIPS/MIPS%20Assembly%20Language%20Guide.pdf" target="_blank">调用惯例</a>
+    <LI><a href="/ARM/ARM%20Architecture%20Reference%20Manual.pdf" target="_blank">指令集手册</a>
+    <LI><a href="/ARM/ARM_calling.pdf" target="_blank">调用惯例</a>
     <LI>汇编程序设计
   </UL>
 
