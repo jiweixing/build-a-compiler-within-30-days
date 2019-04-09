@@ -101,6 +101,8 @@
   <TR> <TD>MARS         <TD>Java       <TD>MIPS    <TD>否                <TD>http://courses.missouristate.edu/KenVollmar/MARS/
   <TR> <TD>SPIM         <TD>C/C++      <TD>MIPS    <TD>否                <TD>https://sourceforge.net/projects/spimsimulator/files/
   <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/jiweixing/bit-rars
+  <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/TheThirdOne/rars
+    
 </TABLE>
 
 <P>
