@@ -133,9 +133,9 @@
   <UL>
     <LI><a href="/ARM/ARM%20Architecture%20Reference%20Manual.pdf" target="_blank">指令集手册</a>
     <LI><a href="/ARM/ARM_calling.pdf" target="_blank">调用惯例</a>
-    <LI>汇编程序设计
-  </UL>
+    <LI><a href="/ARM/DUI0068.pdf" target="_blank">汇编程序设计</a>
+   </UL>
 
 <P>
-<P>以上资料如有遗漏，希望添加的老师，请发邮件给我：jwx@bit.edu.cn
+<P>以上列表正在逐步完善过程中，如有遗漏并希望添加的，请将相关信息发送到邮箱：jwx@bit.edu.cn
 
