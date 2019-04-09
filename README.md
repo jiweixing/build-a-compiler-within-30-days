@@ -119,7 +119,7 @@
   <UL>
     <LI><a href="/MIPS/MIPS%20Assembly%20Language%20Guide.pdf" target="_blank">指令集手册</a>
     <LI><a href="/MIPS/MIPS%20Calling%20Conventions%20Summary.pdf" target="_blank">调用惯例</a>
-    <LI>汇编程序设计
+    <LI><a href="/MIPS/MIPS%20Assembly%20Language%20Guide.pdf" target="_blank">汇编程序设计</a>
   </UL>
 
  <H2>RISC-V处理器相关资料</H2>
