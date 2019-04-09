@@ -127,7 +127,6 @@
     <LI><a href="/RISC-V/riscv-spec-v2.2.pdf" target="_blank">指令集手册</a>
     <LI><a href="https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md" target="_blank">汇编编程指导</a>
     <LI><a href="/RISC-V/RISC-V-Reader-Chinese-v2p1(2).pdf" target="_blank">中文参考手册</a>
-    <LI>
   </UL>
 
  <H2>ARM处理器相关资料</H2>
