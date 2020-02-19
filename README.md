@@ -82,6 +82,14 @@
         <TD>Prof. Mohamed Zahran
         <TD>Compilers: Principles, Techniques, and Tools 
         <TD>https://cs.nyu.edu/courses/spring11/G22.2130-001/
+          
+    <TR>
+        <TD>McGill University
+        <TD>Compiler Design
+        <TD>Prof. Alexander Krolik
+        <TD>Crafting a Compiler
+        <TD>https://www.cs.mcgill.ca/~cs520/2018/      
+          
    
 </TABLE>
     
