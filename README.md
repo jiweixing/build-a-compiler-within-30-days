@@ -84,7 +84,7 @@
         <TD>Compilers: Principles, Techniques, and Tools 
         <TD>https://cs.nyu.edu/courses/spring11/G22.2130-001/
           
-    <TR>
+   <TR>
         <TD>McGill University
         <TD>Compiler Design
         <TD>Prof. Alexander Krolik
