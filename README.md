@@ -76,6 +76,7 @@
         <TD>prof. Andrea Corradini
         <TD>-
         <TD>https://github.com/md-cs-student-unipi/Advanced-Programming
+          
    <TR>
         <TD>NYU
         <TD>Compiler Construction 
@@ -89,7 +90,6 @@
         <TD>Prof. Alexander Krolik
         <TD>Crafting a Compiler
         <TD>https://www.cs.mcgill.ca/~cs520/2018/      
-          
    
 </TABLE>
     
