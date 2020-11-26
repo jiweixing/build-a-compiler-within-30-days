@@ -116,18 +116,18 @@
 </TABLE>
     
 <P>
-<H2>教学型模拟器列表</H2>
+<H2>教学型模拟器列表/Processor Simulator for Teaching</H2>
 <TABLE>
   <TR> <TH>名称         <TH>实现语言    <TH>指令集   <TH>是否支持性能模拟  <TH>链接
   <TR> <TD>MARS         <TD>Java       <TD>MIPS    <TD>否                <TD>http://courses.missouristate.edu/KenVollmar/MARS/
   <TR> <TD>SPIM         <TD>C/C++      <TD>MIPS    <TD>否                <TD>https://sourceforge.net/projects/spimsimulator/files/
   <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/jiweixing/bit-rars
   <TR> <TD>RARS         <TD>Java       <TD>RISC-V  <TD>否                <TD>https://github.com/TheThirdOne/rars
-    
+  <TR> <TD>AARS         <TD>Java       <TD>ARM    <TD>否                   <TD>https://github.com/jiweixing/aars
 </TABLE>
 
 <P>
-<H2>代码生成相关论文</H2>
+<H2>代码生成相关论文/Code Generation</H2>
 <TABLE>
   <TR>  <TH>年份        <TH>题目                                                          <TD>链接
   <TR>  <TD>2018        <TD>Fast and Flexible Instruction Selection with Constraints     <TD>http://www.acm.org/binaries/content/assets/src/2018/patrick-thier.pdf
